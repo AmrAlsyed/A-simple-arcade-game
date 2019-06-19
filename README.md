@@ -9,4 +9,4 @@ You can control the character by using the keyboard's arrow keys, you need to re
 
 This game was made mainly with Javascript, using VS code.
 
-![Image description](https://pasteboard.co/IkaWxwN.jpg)
+![Image description](https://i.imgur.com/kXZexMA.jpg)
